@@ -42,28 +42,36 @@ docker rm
 ## Screenshots
 ### 01 - Crear Script para instalación automática de NGNIX
 Script:
+
 ![Script](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/Script.png)
 
 Ejecución del Script:
+
 ![Ejecución del Script](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/ejecutamos_script.png)
 
 ### 02 - Instalar contenedores de MySQL y de PHPMyAdmin y conectarlos entre si
 Instalación de MySQL:
+
 ![Instalación de MySQL](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/install_mysql.png)
 
 Instalación de PHPMyAdmin:
+
 ![Instalación de PHPMyAdmin](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/install_phpmyadmin.png)
 
 Listado de contenedores:
+
 ![Listado de contenedores](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/lista_contenedores.png)
 
 Prueba de Funcionamiento de PHPMyAdmin:
+
 ![Prueba de Funcionamiento de PHPMyAdmin](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/phpmyadmin_ok.png)
 
 Stop de contenedores:
+
 ![Stop de contenedores](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/stop_containers.png)
 
 Borrado de contenedores:
+
 ![Borrado de contenedores](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/delete_containers.png)
 
 
