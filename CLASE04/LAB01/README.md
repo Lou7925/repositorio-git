@@ -42,29 +42,29 @@ docker rm
 ## Screenshots
 ### 01 - Crear Script para instalación automática de NGNIX
 Script:
-![](https://drive.google.com/file/d/1RDfULuMY2h7TI1Fc9wuKZJq8x29O1vV5/view?usp=share_link)
+![Script](https://drive.google.com/file/d/1RDfULuMY2h7TI1Fc9wuKZJq8x29O1vV5/view?usp=share_link)
 
 Ejecución del Script:
-![](https://drive.google.com/file/d/1-27W9hSl2BQFRdf4KO5SjnsimgqiyxG3/view?usp=share_link)
+![Ejecución del Script](https://drive.google.com/file/d/1-27W9hSl2BQFRdf4KO5SjnsimgqiyxG3/view?usp=share_link)
 
 ### 02 - Instalar contenedores de MySQL y de PHPMyAdmin y conectarlos entre si
 Instalación de MySQL:
-![](https://drive.google.com/file/d/17Vwc7Ldy6vUF40RQ_u_1N9qd5lo_ESLw/view?usp=share_link)
+![Instalación de MySQL](https://drive.google.com/file/d/17Vwc7Ldy6vUF40RQ_u_1N9qd5lo_ESLw/view?usp=share_link)
 
 Instalación de PHPMyAdmin:
-![](https://drive.google.com/file/d/1FszXc5rmUatclaTUhV1zgZvsNxYa3kmR/view?usp=share_link)
+![Instalación de PHPMyAdmin](https://drive.google.com/file/d/1FszXc5rmUatclaTUhV1zgZvsNxYa3kmR/view?usp=share_link)
 
 Listado de contenedores:
-![](https://drive.google.com/file/d/1J5iMx9S0vUa5YyhlG-qv1jCthIZYRrYr/view?usp=share_link)
+![Listado de contenedores](https://drive.google.com/file/d/1J5iMx9S0vUa5YyhlG-qv1jCthIZYRrYr/view?usp=share_link)
 
 Prueba de Funcionamiento de PHPMyAdmin:
 ![](https://drive.google.com/file/d/1DWIw_URkPjs1I6kWkOwbuESDq8HI_q8d/view?usp=share_link)
 
 Stop de contenedores:
-![](https://drive.google.com/file/d/1EbLl45PkDrlbeloj8mQ-k0l3ZRckddWQ/view?usp=share_link)
+![Stop de contenedores](https://drive.google.com/file/d/1EbLl45PkDrlbeloj8mQ-k0l3ZRckddWQ/view?usp=share_link)
 
 Borrado de contenedores:
-![](https://drive.google.com/file/d/15eY2yla9m45wld4QJQd9Y5MrXPC8aGGA/view?usp=share_link)
+![Borrado de contenedores](https://drive.google.com/file/d/15eY2yla9m45wld4QJQd9Y5MrXPC8aGGA/view?usp=share_link)
 
 
 
