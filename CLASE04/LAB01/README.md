@@ -42,7 +42,7 @@ docker rm
 ## Screenshots
 ### 01 - Crear Script para instalación automática de NGNIX
 Script:
-![Script](https://drive.google.com/file/d/1RDfULuMY2h7TI1Fc9wuKZJq8x29O1vV5/view?usp=share_link)
+![Script](https://acortar.link/xOgPAI)
 
 Ejecución del Script:
 ![Ejecución del Script](https://drive.google.com/file/d/1-27W9hSl2BQFRdf4KO5SjnsimgqiyxG3/view?usp=share_link)
@@ -58,7 +58,7 @@ Listado de contenedores:
 ![Listado de contenedores](https://drive.google.com/file/d/1J5iMx9S0vUa5YyhlG-qv1jCthIZYRrYr/view?usp=share_link)
 
 Prueba de Funcionamiento de PHPMyAdmin:
-![](https://drive.google.com/file/d/1DWIw_URkPjs1I6kWkOwbuESDq8HI_q8d/view?usp=share_link)
+![Prueba de Funcionamiento de PHPMyAdmin](https://drive.google.com/file/d/1DWIw_URkPjs1I6kWkOwbuESDq8HI_q8d/view?usp=share_link)
 
 Stop de contenedores:
 ![Stop de contenedores](https://drive.google.com/file/d/1EbLl45PkDrlbeloj8mQ-k0l3ZRckddWQ/view?usp=share_link)
