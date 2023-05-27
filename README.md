@@ -1,2 +1,0 @@
-# repositorio-git
-aprendiendo git
