@@ -61,39 +61,23 @@ docker rm m1
 ```
 
 ### Screenshots
-#### 01 - Crear Script para instalación automática de NGNIX
-Script:
+#### 01 - Instalar container MongoDB
 
-![Script](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/Script.png)
+![docker_run](https://github.com/dfernandezlecler/diegofl-web/blob/master/LAB02/docker_run.png)
 
-Ejecución del Script:
+#### 02 - Ingresar al container de MongoDB
 
-![Ejecución del Script](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/ejecutamos_script.png)
+![docker_exec](https://github.com/dfernandezlecler/diegofl-web/blob/master/LAB02/docker_exec.png)
 
-#### 02 - Instalar contenedores de MySQL y de PHPMyAdmin y conectarlos entre si
-Instalación de MySQL:
+#### 03 - Ingresar a MongoDB
 
-![Instalación de MySQL](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/install_mysql.png)
+![mongodb](https://github.com/dfernandezlecler/diegofl-web/blob/master/LAB02/ingresar_container.png)
 
-Instalación de PHPMyAdmin:
+#### 04 - Eliminar contenedor
 
-![Instalación de PHPMyAdmin](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/install_phpmyadmin.png)
+![remove](https://github.com/dfernandezlecler/diegofl-web/blob/master/LAB02/remove_container.png)
 
-Listado de contenedores:
 
-![Listado de contenedores](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/lista_contenedores.png)
-
-Prueba de Funcionamiento de PHPMyAdmin:
-
-![Prueba de Funcionamiento de PHPMyAdmin](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/phpmyadmin_ok.png)
-
-Stop de contenedores:
-
-![Stop de contenedores](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/stop_containers.png)
-
-Borrado de contenedores:
-
-![Borrado de contenedores](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/delete_containers.png)
 
 
 
