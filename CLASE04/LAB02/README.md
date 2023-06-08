@@ -1,11 +1,12 @@
 
 # CLASE 04 - LAB02
 
-Laboratorio de Docker
+## Laboratorio de Docker
 
-Ejecutar un contenedor que corre MongoDB, con el cual nos conectaremos por medio de Python
+## Ejecutamos un contenedor que corre MongoDB, con el cual nos conectaremos por medio de Python
 
-## 01 - Iniciar el container de MongoDB
+
+### 01 - Iniciar el container de MongoDB
 
 Creamos el container:
 
@@ -32,7 +33,7 @@ exit
 ```
 
     
-## 02 - Utilizaremos los scripts de Python existentes en la carpeta para la colección de Mongo, utilizando la librería https://api.mongodb.com/python/current/tutorial.html
+### 02 - Utilizaremos los scripts de Python existentes en la carpeta para la colección de Mongo, utilizando la librería https://api.mongodb.com/python/current/tutorial.html
 
 Instalamos la librería de Mongo por medio del comando:
 
@@ -59,8 +60,8 @@ docker stop m1
 docker rm m1
 ```
 
-## Screenshots
-### 01 - Crear Script para instalación automática de NGNIX
+### Screenshots
+#### 01 - Crear Script para instalación automática de NGNIX
 Script:
 
 ![Script](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/Script.png)
@@ -69,7 +70,7 @@ Ejecución del Script:
 
 ![Ejecución del Script](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/ejecutamos_script.png)
 
-### 02 - Instalar contenedores de MySQL y de PHPMyAdmin y conectarlos entre si
+#### 02 - Instalar contenedores de MySQL y de PHPMyAdmin y conectarlos entre si
 Instalación de MySQL:
 
 ![Instalación de MySQL](https://github.com/dfernandezlecler/diegofl-web/blob/master/images/install_mysql.png)
